@@ -12,8 +12,8 @@ An action-oriented technology leader with 19+ years of experience bridging the g
 
 ### 🚀 Key Projects
 * [Mainframe-Modernization](link): Architecting Rust-based agents for legacy-to-cloud transition.
-* [HAR-Biometrics](link): ML-driven Human Activity Recognition for authentication.
-* [DeFi-CLI](link): High-concurrency financial tools built in Rust.
+* [HAR-Biometrics](https://github.com/venkatnagala/Human-Activity-Recognition): ML-driven Human Activity Recognition for authentication.
+* [DeFi-CLI](https://github.com/tenalirama2025-creator/cargo_new_hyperliquid_cli): High-concurrency financial tools built in Rust.
 
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/tenalirama](https://www.linkedin.com/in/tenalirama)
