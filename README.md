@@ -1,4 +1,4 @@
-# Hi, I'm Venkateshwar Rao Nagala👋
+# Hi, I'm Venkateshwar Rao 👋
 
 **VP of Engineering | Solution Architect | AI & Cloud Modernization**
 
