@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Venkateshwar Rao Nagala👋
 
-<!--
-**venkatnagala/venkatnagala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VP of Engineering | Solution Architect | AI & Cloud Modernization**
 
-Here are some ideas to get you started:
+An action-oriented technology leader with 19+ years of experience bridging the gap between legacy financial systems and modern cloud-native architectures. Currently focused on building high-performance agents in **Rust** and exploring **Behavioral Biometrics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech & Leadership Stack
+* **Leadership:** Engineering Strategy, SDLC Management, Mentoring, Agile/Scrum.
+* **Modern Stack:** Rust (Tokio, Axum), Python (TensorFlow, PyTorch), Go, Docker, Kubernetes.
+* **Cloud:** AWS (Mainframe Modernization, EC2, S3), GCP (GKE, Cloud SQL), Terraform.
+* **Legacy:** IBM Mainframe (Assembler, COBOL, CICS, JCL).
+
+### 🚀 Key Projects
+* [Mainframe-Modernization](link): Architecting Rust-based agents for legacy-to-cloud transition.
+* [HAR-Biometrics](link): ML-driven Human Activity Recognition for authentication.
+* [DeFi-CLI](link): High-concurrency financial tools built in Rust.
+
+### 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/tenalirama](https://www.linkedin.com/in/tenalirama)
+* **Email:** [tenalirama2026@gmail.com](mailto:tenalirama2026@gmail.com)
